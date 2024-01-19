@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web sobre curiosidades de tecnologia, focando na história do mascote do Android. Aqui estão as principais partes do código:
