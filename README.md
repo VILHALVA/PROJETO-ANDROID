@@ -84,6 +84,7 @@ unzip PROJETO-ANDROID.zip
 * [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO FEITO PARA O CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 
 
