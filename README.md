@@ -1,10 +1,7 @@
 # PROJETO ANDROID
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web sobre curiosidades de tecnologia, focando na história do mascote do Android. Aqui estão as principais partes do código:
@@ -53,10 +50,40 @@ Este é um código HTML e CSS para uma página da web sobre curiosidades de tecn
 6. **Estilos para o Rodapé:**
    - Define a aparência do rodapé e estiliza os links no rodapé.
 
-### Considerações Adicionais:
+### CONSIDERAÇÕES ADICIONAIS:
    - O código utiliza fontes personalizadas (`Bebas Neue` e `Android`) que devem estar disponíveis nos arquivos de fontes (`../FONTES/`).
    - A página tem um design responsivo, ajustando-se a diferentes larguras de tela.
    - Há um uso criativo de cores, gradientes e sombras para melhorar a estética visual.
    - Links externos têm um ícone representando um link após o texto (`\00A0\1F517`).
    - A página incorpora um vídeo do YouTube sobre o mascote do Android.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/PROJETO-ANDROID.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd PROJETO-ANDROID
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip PROJETO-ANDROID.zip
+```
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
 
