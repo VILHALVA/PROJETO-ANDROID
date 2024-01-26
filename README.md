@@ -1,7 +1,12 @@
 # PROJETO ANDROID
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_5.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_6.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML e CSS para uma página da web sobre curiosidades de tecnologia, focando na história do mascote do Android. Aqui estão as principais partes do código:
